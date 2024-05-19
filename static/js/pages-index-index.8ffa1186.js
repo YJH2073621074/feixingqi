@@ -1150,7 +1150,7 @@
                         goFlag: !1,
                         lockFlag: !1,
                         hot: !0
-                    }, {id: 7, text: "自定义", goFlag: !1, lockFlag: !0, hot: !1}],
+                    }, {id: 7, text: "自定义", goFlag: !1, lockFlag: !1, hot: !1}],
                     flag: !1,
                     setShow: !1,
                     customShow: !1,
