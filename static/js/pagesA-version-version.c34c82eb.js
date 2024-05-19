@@ -48,7 +48,7 @@
                     versionList: [
                         {
                             v: "售后方式",
-                            text: "售后联系：youtiao-01"
+                            text: "售后联系：YJH2073621074"
                         }
                     ]
                 }
